@@ -1,5 +1,5 @@
 # covidOverTime
-This programs separates out each state into its own dataframe, 
+This programs separate out each state into its own dataframe, 
 cleans each new dataframe, and creates visualizations based on user imput to assit with analyzing the data.
 
 # !> Summation & Analysis
