@@ -2,12 +2,12 @@
 This programs separate out each state into its own dataframe, 
 cleans each new dataframe, and creates visualizations based on user imput to assit with analyzing the data.
 
-![GitHub Logo](/images/logo.png)
+![Covid All](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraphALL.png)
 
 # !> Summation & Analysis
 -For this set of data the states chosen are to represent COVID cases from the supposed beginning of the outbreak to the closest date for this analysis. The figure above represents the change in cases over time for the data beginning on March 4, 2020 to August 6, 2020. Based on the graph and the data, the middle of March is when the first appreciable cases of COVID appeared. New York was the first state to recieve appreciable cases of COVID. Their cases went from a little under 10,000 to close to 300,000 cases in one month(from April to May). Other states that increase greatly in cases are Florida, Georgia, California. 
 
-![GitHub Logo](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraph.png)
+![Chosen State](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraph.png)
 
 -Interesting thing to note is that the sharp rise of cases in Georgia is not predominatly included in the news. The lack of new stories and mentions of Georgia could be due to the fact that this is an election year and Florida, California and New York are all states with significant distrubutions of electoral college votes. 
 
