@@ -1,6 +1,6 @@
 # covidOverTime
 This programs separate out each state into its own dataframe, 
-cleans each new dataframe, and creates visualizations based on user imput to assit with analyzing the data.
+cleans each new dataframe, and creates visualizations based on user input to assit with analyzing the data.
 
 ![Covid All](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraphALL.png)
 
