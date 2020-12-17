@@ -5,7 +5,7 @@ cleans each new dataframe, and creates visualizations based on user input to ass
 ![Covid All](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraphALL.png)
 
 # !> Summation & Analysis
--For this set of data the states chosen are to represent COVID cases from the supposed beginning of the outbreak to the closest date for this analysis. The figure above represents the change in cases over time for the data beginning on March 4, 2020 to August 6, 2020. Based on the graph and the data, the middle of March is when the real impact of COVID-19 began. New York was the first state to recieve appreciable cases. Their cases went from a little under 10,000 to close to 300,000 cases in one month(from April to May). Other states that increase greatly in cases are Florida, Georgia, California. 
+-For this set of data the states chosen are to represent COVID cases from the supposed beginning of the outbreak to the closest date for this analysis. The figure above represents the change in cases over time for the data beginning on March 4, 2020 to August 6, 2020. Based on the graph and the data, the middle of March is when the real impact of COVID-19 began. New York was the first state to recieve appreciable cases. Their cases went from a little under 10,000 to close to 300,000 cases in one month(from April to May). Other states that increase greatly in cases are Florida, Georgia, and California. 
 
 ![Chosen State](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraph.png)
 
