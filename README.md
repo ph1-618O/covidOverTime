@@ -4,7 +4,7 @@ cleans each new dataframe, and creates visualizations based on user input to ass
 
 ![Covid All](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraphALL.png)
 
-# !> Summation & Analysis
+## !> Summation & Analysis
 -For this set of data the states chosen are to represent COVID cases from the supposed beginning of the outbreak to the closest date for this analysis. The figure above represents the change in cases over time for the data beginning on March 4, 2020 to August 6, 2020. Based on the graph and the data, the middle of March is when the real impact of COVID-19 began. New York was the first state to recieve appreciable cases. Their cases went from a little under 10,000 to close to 300,000 cases in one month(from April to May). Other states that increase greatly in cases are Florida, Georgia, and California. 
 
 ![Chosen State](https://github.com/ph1-618O/covidOverTime/blob/master/CovidStateGraph.png)
@@ -14,7 +14,7 @@ cleans each new dataframe, and creates visualizations based on user input to ass
 -Other suggestions to consider and study is the relation of the data to the 'Shut down', when each individual state set new guidelines for the opening and closing of businesses. Further work suggested is a cumulative line for cases over the United States, and a graph that shows all the states increase over time. Limitations to consider, in the resources there isn't much information about where their sample set is coming from. To quote the website 'scrape data' is referred to however they do mention that all the data is gathered and checked by humans.
 
 
-# !> Further Considerations
+## !> Further Considerations
 ! Cleaning the data to just the 1st of March to the end of July
 
 ! Writing code to produce a mean shadow line for ALL STATES, and the INPUT
@@ -37,14 +37,14 @@ cleans each new dataframe, and creates visualizations based on user input to ass
 
 ! Find library of full state names to compare input
 
-# !> Credits
+## !> Credits
 
 Code by Jen S
 
 Cynthia, David, and Kent all assisted in setup, code development and debugging of this data aqusition.
 Sarah and Latisha assisted with debugging.
 
-# !> Resources
+## !> Resources
 The data comes from the COVID Tracking Project, an organization formed by 'The Atlanic'
 a newspaper and online resource for news. They collect COVID data from all 50 states and territories daily. 
 COVID data from the Covid Tracking Project has been utilized by the White House, and many other popular news networks.
